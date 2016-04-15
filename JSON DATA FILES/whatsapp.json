@@ -1,0 +1,71 @@
+{
+  "conversation": [
+   {
+      "messages": [
+        {
+          "date": "07-01-2015 12:30",
+          "message": “Hi Bill how was your holiday?",
+          "type": "received"
+        }
+      ],
+      "name": “Bill”,
+      "phone": "+44757777777777”
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:31",
+          "message": “Hi Andy it was great thanks, I had a really good time. How have you been?",
+          "type": "received"
+        }
+      ],
+      "name": "Andy”,
+      "phone": "+44757555555”
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:32”,
+          "message": “I have been good thank you very much! Would you like to join me for a few drinks this evening?  ",
+          "type": "received"
+        }
+      ],
+      "name": "+ Bill",
+      "phone": "+ 44757777777777"
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:33”,
+          "message": “Sure that sounds like fun! What time are we meeting up?",
+          "type": "received"
+        }
+      ],
+      "name": "Andy",
+      "phone": "+44757555555"
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:34”,
+          "message": “7pm at the bar round the corner from mine”,
+          "type": "received"
+        }
+      ],
+      "name": "Bill",
+      "phone": "+44757777777777"
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:35”,
+          "message": “Cool, see you there",
+          "type": "received"
+        }
+      ],
+      "name": "Andy",
+      "phone": “+44757555555"
+    }
+
+  ]
+}

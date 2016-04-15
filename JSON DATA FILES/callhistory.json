@@ -1,0 +1,60 @@
+{
+  "callhistory": [
+    {
+      "date": "06-25-2015 12:05",
+      "duration": "0",
+      "name": “Paul”,
+      "phone": "012148777777”,
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:05",
+      "duration": "0",
+      "name": “John”,
+      "phone": "1275777777”,
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:04",
+      "duration": "0",
+      "name": “Sasha”,
+      "phone": "0207777777”,
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:04",
+      "duration": "0",
+      "name": “Sandra”,
+      "phone": "0163777777”,
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:03",
+      "duration": "0",
+      "name": “Liam”,
+      "phone": "019047777777”,
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:03",
+      "duration": "0",
+      "name": “Michael”,
+      "phone": "03067777777”,
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:03",
+      "duration": "0",
+      "name": “Andy”,
+      "phone": "020777777774",
+      "type": "Outgoing Call -Answered"
+    },
+    {
+      "date": "06-25-2015 12:02",
+      "duration": "0",
+      "name": “Bill”,
+      "phone": "03457777777”,
+      "type": "Outgoing Call -Answered"
+    }
+  ]
+}

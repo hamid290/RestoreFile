@@ -1,0 +1,70 @@
+{
+  "conversation": [
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:30",
+          "message": “Happy Birthday Bill, hope you have a great day!",
+          "type": "received"
+        }
+      ],
+      "name": “Bill”,
+      "phone": "+44757777777777”
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:31",
+          "message": “Hi Andy, thanks for the birthday wishes. How are you?",
+          "type": "received"
+        }
+      ],
+      "name": "Andy”,
+      "phone": "+44757555555”
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:32”,
+          "message": “I'm good thanks, how are you?  ",
+          "type": "received"
+        }
+      ],
+      "name": "+ Bill",
+      "phone": "+ 44757777777777"
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:33”,
+          "message": “I'm ok thanks! Can you still make it for my birthday dinner on Saturday?",
+          "type": "received"
+        }
+      ],
+      "name": "Andy",
+      "phone": "+44757555555"
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:34”,
+          "message": “Yes I'll definitely be there! It starts at 8pm right?”,
+          "type": "received"
+        }
+      ],
+      "name": "Bill",
+      "phone": "+44757777777777"
+    },
+    {
+      "messages": [
+        {
+          "date": "07-01-2015 12:35”,
+          "message": “Yes that's right. Looking forward to seeing you there!",
+          "type": "received"
+        }
+      ],
+      "name": "Andy",
+      "phone": “+44757555555"
+    }
+  ]
+}
